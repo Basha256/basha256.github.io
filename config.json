@@ -1,12 +1,12 @@
 [
   {
-    "title":"Wordpress Blogs",
+    "title":"EMC Radio",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"EMC RADIO",
+        "title":"RADIO",
         "provider":"radio",
         "arguments":["https://c22.radioboss.fm:18040/stream"
         ]
@@ -16,6 +16,13 @@
             "provider":"webview",
             "arguments":[
               "https://edentv.online.church/"
+        ]
+      },
+      {
+        "title":"EMC STORE",
+        "provider":"webview",
+        "arguments":[
+          "https://edentv.online.church/"
         ]
       },
 
